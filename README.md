@@ -27,7 +27,5 @@ Un juego estratégico por turnos donde dos jugadores compiten:
 ```bash
 pip install Pillow
 
-
-```bash
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu_email@gmail.com"
